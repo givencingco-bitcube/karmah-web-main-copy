@@ -62,5 +62,4 @@ Thumbs.db
 *storybook.log
 
 # Docker
-Dockerfile 
 .dockerignore
