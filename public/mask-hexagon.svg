@@ -1,0 +1,18 @@
+<svg width="438" height="458" viewBox="0 0 438 458" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<mask id="mask0_1350_136079" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="438" height="458">
+<path d="M388.402 378.509L268.598 445.191C237.917 462.27 200.106 462.27 169.402 445.191L49.5975 378.509C18.9166 361.43 0 329.85 0 295.693V162.307C0 128.15 18.8943 96.57 49.5975 79.4912L169.402 12.809C200.083 -4.26968 237.894 -4.26968 268.598 12.809L388.402 79.4912C419.083 96.57 438 128.15 438 162.307V295.693C438 329.85 419.106 361.43 388.402 378.509Z" fill="url(#paint0_linear_1350_136079)"/>
+</mask>
+<g mask="url(#mask0_1350_136079)">
+<rect x="-23.2891" y="-59.8242" width="483.25" height="677.122" rx="16" fill="#FFD8F8"/>
+<rect x="-23.2891" y="-59.8242" width="483.25" height="677.122" rx="16" fill="url(#pattern0_1350_136079)"/>
+</g>
+<defs>
+<pattern id="pattern0_1350_136079" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_1350_136079" transform="matrix(0.000366166 0 0 0.000261326 0 -0.0351965)"/>
+</pattern>
+<linearGradient id="paint0_linear_1350_136079" x1="219" y1="0" x2="219" y2="458" gradientUnits="userSpaceOnUse">
+<stop stop-color="#6FEAFE"/>
+<stop offset="1" stop-color="#A7EA87"/>
+</linearGradient>
+</defs>
+</svg>

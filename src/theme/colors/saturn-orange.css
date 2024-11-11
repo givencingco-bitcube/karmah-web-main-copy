@@ -1,0 +1,17 @@
+:root {
+  --saturn-orange-800: hsla(18, 63%, 43%, 1);
+  --saturn-orange-700: hsla(18, 63%, 49%, 1);
+  --saturn-orange-600: hsla(18, 78%, 55%, 1);
+  --saturn-orange-500: hsl(18 100% 61%);
+  --saturn-orange-400: hsla(18, 100%, 65%, 1);
+  --saturn-orange-300: hsla(18, 100%, 69%, 1);
+  --saturn-orange-200: hsla(18, 100%, 73%, 1);
+
+  --saturn-orange-800-foreground: hsla(0, 0%, 100%, 1);
+  --saturn-orange-700-foreground: hsla(0, 0%, 100%, 1);
+  --saturn-orange-600-foreground: hsla(0, 0%, 100%, 1);
+  --saturn-orange-500-foreground: hsla(220, 28%, 16%, 1);
+  --saturn-orange-400-foreground: hsla(220, 28%, 16%, 1);
+  --saturn-orange-300-foreground: hsla(220, 28%, 16%, 1);
+  --saturn-orange-200-foreground: hsla(220, 28%, 16%, 1);
+}

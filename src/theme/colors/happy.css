@@ -1,0 +1,17 @@
+:root {
+  --happy-800: hsla(255, 35%, 51%, 1);
+  --happy-700: hsla(255, 47%, 59%, 1);
+  --happy-600: hsla(255, 64%, 66%, 1);
+  --happy-500: hsla(255, 91%, 73%, 1);
+  --happy-400: hsla(255, 92%, 76%, 1);
+  --happy-300: hsla(255, 91%, 79%, 1);
+  --happy-200: hsla(255, 92%, 81%, 1);
+
+  --happy-800-foreground: hsla(0, 0%, 100%, 1);
+  --happy-700-foreground: hsla(0, 0%, 100%, 1);
+  --happy-600-foreground: hsla(0, 0%, 100%, 1);
+  --happy-500-foreground: hsla(220, 28%, 16%, 1);
+  --happy-400-foreground: hsla(220, 28%, 16%, 1);
+  --happy-300-foreground: hsla(220, 28%, 16%, 1);
+  --happy-200-foreground: hsla(220, 28%, 16%, 1);
+}

@@ -1,0 +1,4 @@
+{
+  "name": "karmah-web",
+  "framework": "nextjs:14"
+}

@@ -1,0 +1,13 @@
+:root {
+  --sea-800: hsla(209, 91%, 17%, 1);
+  --sea-600: hsla(209, 91%, 22%, 1);
+  --sea-500: hsla(209, 90%, 24%, 1);
+  --sea-400: hsla(209, 62%, 32%, 1);
+  --sea-200: hsla(209, 32%, 47%, 1);
+
+  --sea-800-foreground: hsla(0, 0%, 100%, 1);
+  --sea-600-foreground: hsla(0, 0%, 100%, 1);
+  --sea-500-foreground: hsla(0, 0%, 100%, 1);
+  --sea-400-foreground: hsla(0, 0%, 100%, 1);
+  --sea-200-foreground: hsla(0, 0%, 100%, 1);
+}

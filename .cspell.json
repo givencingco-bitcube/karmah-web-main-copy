@@ -1,0 +1,40 @@
+{
+  "language": "en-gb",
+  "words": [
+    "bitcube",
+    "bitcubesystems",
+    "sonarjs",
+    "stylelint",
+    "sass",
+    "stylelintrc",
+    "execa",
+    "esbenp",
+    "dbaeumer",
+    "eamodio",
+    "bugsnag",
+    "tseslint",
+    "Todos",
+    "domcontentloaded",
+    "teardown",
+    "centered",
+    "autodocs",
+    "Karmah"
+  ],
+  "dictionaries": [
+    "html",
+    "scss",
+    "node",
+    "npm",
+    "softwareTerms",
+    "typescript"
+  ],
+  "ignorePaths": [
+    "node_modules",
+    "lib",
+    "dist",
+    "coverage",
+    "docs",
+    "scripts",
+    "test"
+  ]
+}

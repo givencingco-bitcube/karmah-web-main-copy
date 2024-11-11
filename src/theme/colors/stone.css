@@ -1,0 +1,13 @@
+:root {
+  --stone-700: hsla(49, 9%, 75%, 1);
+  --stone-600: hsla(46, 16%, 84%, 1);
+  --stone-500: hsla(47, 41%, 93%, 1);
+  --stone-400: hsla(46, 42%, 94%, 1);
+  --stone-300: hsla(49, 41%, 95%, 1);
+
+  --stone-700-foreground: hsla(220, 28%, 16%, 1);
+  --stone-600-foreground: hsla(220, 28%, 16%, 1);
+  --stone-500-foreground: hsla(220, 28%, 16%, 1);
+  --stone-400-foreground: hsla(207, 11%, 20%, 1);
+  --stone-300-foreground: hsla(207, 11%, 20%, 1);
+}

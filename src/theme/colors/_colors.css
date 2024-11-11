@@ -1,0 +1,47 @@
+:root {
+  --white-500: hsla(0, 0%, 100%, 1);
+  --black-500: hsla(0, 0%, 0%, 1);
+
+  --platinum-500: hsla(0, 0%, 15%, 1);
+  --off-white-500: hsla(0, 0%, 30%, 1);
+
+  --red-500: hsla(4, 64%, 48%, 1);
+  --red-50: hsla(4, 58%, 90%, 1);
+  --orange-500: hsla(25, 93%, 52%, 1);
+  --yellow-500: hsla(40, 100%, 50%, 1);
+  --green-500: hsla(155, 65%, 38%, 1);
+  --green-50: hsla(154, 40%, 88%, 1);
+  --blue-500: hsla(214, 100%, 65%, 1);
+  --blue-500-focus: hsla(214, 100%, 65%, 0.25);
+
+  --gradient-happy: linear-gradient(
+    94.39deg,
+    hsla(255, 92%, 81%, 1) 0.35%,
+    hsla(255, 50%, 80%, 1) 100%
+  );
+  --gradient-lilac: linear-gradient(
+    98.18deg,
+    hsla(255, 100%, 92%, 1) 0.41%,
+    hsla(255, 50%, 80%, 1) 100%
+  );
+  --gradient-pink: linear-gradient(
+    97.63deg,
+    hsl(311, 100%, 92%) 0.24%,
+    hsl(311, 50%, 80%) 100%
+  );
+  --gradient-green: linear-gradient(
+    100.76deg,
+    hsl(101, 70%, 81%) 0.48%,
+    hsl(101, 70%, 72%) 100%
+  );
+  --gradient-orange: linear-gradient(
+    100.16deg,
+    hsl(18, 100%, 86%) 0.42%,
+    hsl(18, 100%, 81%) 100%
+  );
+  --gradient-blue: linear-gradient(
+    100.09deg,
+    hsl(188, 98%, 80%) 0.59%,
+    hsl(188, 71%, 65%) 100%
+  );
+}

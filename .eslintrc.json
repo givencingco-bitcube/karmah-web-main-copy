@@ -1,0 +1,13 @@
+{
+  "extends": [
+    "next/core-web-vitals",
+    "next/typescript",
+    "plugin:sonarjs/recommended-legacy",
+    "plugin:@cspell/recommended",
+    "plugin:storybook/recommended"
+  ],
+  "plugins": ["sonarjs"],
+  "rules": {
+    "sonarjs/no-duplicate-string": "off"
+  }
+}

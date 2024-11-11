@@ -1,0 +1,13 @@
+:root {
+  --lilac-800: hsla(255, 21%, 62%, 1);
+  --lilac-600: hsla(255, 50%, 80%, 1);
+  --lilac-500: hsla(255, 100%, 89%, 1);
+  --lilac-400: hsla(254, 100%, 90%, 1);
+  --lilac-200: hsla(255, 100%, 92%, 1);
+
+  --lilac-800-foreground: hsla(0, 0%, 100%, 1);
+  --lilac-600-foreground: hsla(0, 0%, 100%, 1);
+  --lilac-500-foreground: hsla(220, 28%, 16%, 1);
+  --lilac-400-foreground: hsla(220, 28%, 16%, 1);
+  --lilac-200-foreground: hsla(220, 28%, 16%, 1);
+}

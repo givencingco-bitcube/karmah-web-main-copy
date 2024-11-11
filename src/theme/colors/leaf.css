@@ -1,0 +1,17 @@
+:root {
+  --leaf-800: hsla(101, 27%, 51%, 1);
+  --leaf-700: hsla(100, 37%, 58%, 1);
+  --leaf-600: hsla(101, 50%, 65%, 1);
+  --leaf-500: hsla(101, 70%, 72%, 1);
+  --leaf-400: hsla(100, 70%, 75%, 1);
+  --leaf-300: hsla(100, 70%, 78%, 1);
+  --leaf-200: hsla(101, 70%, 81%, 1);
+
+  --leaf-800-foreground: hsla(0, 0%, 100%, 1);
+  --leaf-700-foreground: hsla(0, 0%, 100%, 1);
+  --leaf-600-foreground: hsla(0, 0%, 100%, 1);
+  --leaf-500-foreground: hsla(220, 28%, 16%, 1);
+  --leaf-400-foreground: hsla(220, 28%, 16%, 1);
+  --leaf-300-foreground: hsla(220, 28%, 16%, 1);
+  --leaf-200-foreground: hsla(220, 28%, 16%, 1);
+}

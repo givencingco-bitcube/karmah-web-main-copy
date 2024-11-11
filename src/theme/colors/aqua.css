@@ -1,0 +1,13 @@
+:root {
+  --aqua-800: hsla(188, 39%, 50%, 1);
+  --aqua-600: hsla(188, 71%, 65%, 1);
+  --aqua-500: hsla(188, 99%, 72%, 1);
+  --aqua-400: hsla(188, 98%, 74%, 1);
+  --aqua-200: hsla(188, 98%, 80%, 1);
+
+  --aqua-800-foreground: hsla(0, 0%, 100%, 1);
+  --aqua-600-foreground: hsla(0, 0%, 100%, 1);
+  --aqua-500-foreground: hsla(220, 28%, 16%, 1);
+  --aqua-400-foreground: hsla(220, 28%, 16%, 1);
+  --aqua-200-foreground: hsla(220, 28%, 16%, 1);
+}

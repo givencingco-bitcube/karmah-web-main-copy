@@ -1,0 +1,13 @@
+:root {
+  --pink-800: hsla(311, 21%, 62%, 1);
+  --pink-600: hsla(311, 50%, 80%, 1);
+  --pink-500: hsla(311, 100%, 89%, 1);
+  --pink-400: hsla(311, 100%, 90%, 1);
+  --pink-200: hsla(311, 100%, 92%, 1);
+
+  --pink-800-foreground: hsla(0, 0%, 100%, 1);
+  --pink-600-foreground: hsla(0, 0%, 100%, 1);
+  --pink-500-foreground: hsla(220, 28%, 16%, 1);
+  --pink-400-foreground: hsla(220, 28%, 16%, 1);
+  --pink-200-foreground: hsla(220, 28%, 16%, 1);
+}
