@@ -61,5 +61,8 @@ Thumbs.db
 .history/*
 *storybook.log
 
-# Docker
-.dockerignore
+# Ignore Docker images
+*.tar
+*.img
+*.iso
+Dockerfile.*
