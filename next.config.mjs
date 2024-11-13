@@ -11,7 +11,6 @@ const nextConfig = {
         '/about-us': { page: '/about-us' },
         '/contact-us': { page: '/contact-us' },
         '/_not-found': { page: '/_not-found' },  
-        // '/_not-found': { page: '/_not-found' },
       }
     }
   };
