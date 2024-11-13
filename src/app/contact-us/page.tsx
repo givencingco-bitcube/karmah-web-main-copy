@@ -319,7 +319,7 @@ function FAQ() {
 
   return (
     <PaddedContainer size="large" className="flex lg:flex-row flex-col">
-      <h2 className="lg:w-1/4 text-center lg:text-left">FAQ's</h2>
+      <h2 className="lg:w-1/4 text-center lg:text-left">FAQ&apos;s</h2>
       <div className="lg:w-3/4 h-96 w-full">
         <Accordion type="single" collapsible>
           {faqs.map((faq, index) => (

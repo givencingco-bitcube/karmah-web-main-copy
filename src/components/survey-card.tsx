@@ -8,7 +8,7 @@ export function SurveyCard({
   bannerImage,
   badge,
   colour,
-  size,
+  // size,
 }: {
   title: string;
   bannerImage: {

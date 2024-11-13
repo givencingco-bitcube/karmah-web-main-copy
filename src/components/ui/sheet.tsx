@@ -3,7 +3,9 @@
 import * as React from 'react';
 import * as SheetPrimitive from '@radix-ui/react-dialog';
 import { cva, type VariantProps } from 'class-variance-authority';
-import { X, XCircleIcon } from 'lucide-react';
+import { XCircleIcon } from 'lucide-react';
+
+// import { X, XCircleIcon } from 'lucide-react';
 
 import { cn } from '~/lib/utils';
 

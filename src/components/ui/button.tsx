@@ -4,7 +4,7 @@ import { cva, type VariantProps } from 'class-variance-authority';
 
 import { cn } from '~/lib/utils';
 
-const className = 'py-4 border-secondary-sea-500';
+// const className = 'py-4 border-secondary-sea-500';
 
 const buttonVariants = cva(
   cn(
