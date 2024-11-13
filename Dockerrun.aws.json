@@ -1,0 +1,18 @@
+{
+    "AWSEBDockerrunVersion": 2,
+    "containerDefinitions": [
+      {
+        "name": "Karmah-web-main",
+        "image": "135808943588.dkr.ecr.eu-west-2.amazonaws.com/karmah:latest",
+        "essential": true,
+        "memory": 512,
+        "portMappings": [
+          {
+            "hostPort": 8080,
+            "containerPort": 3000
+          }
+        ]
+      }
+    ]
+  }
+  

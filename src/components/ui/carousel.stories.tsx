@@ -23,7 +23,7 @@ const meta: Meta<typeof Carousel> = {
     <Carousel {...args}>
       <CarouselContent>
         {Array.from({ length: 5 }).map((_, index) => (
-          <CarouselItem key={index}>
+          <CarouselItem key={index} index={index}>
             <div className="flex aspect-square items-center justify-center rounded border bg-card p-6">
               <span className="text-4xl font-semibold">{index + 1}</span>
             </div>
@@ -56,7 +56,7 @@ export const Size: Story = {
     <Carousel {...args} className="mx-12 w-full max-w-xs">
       <CarouselContent>
         {Array.from({ length: 5 }).map((_, index) => (
-          <CarouselItem key={index} className="basis-1/3">
+          <CarouselItem key={index} className="basis-1/3" index={0}>
             <div className="flex aspect-square items-center justify-center rounded border bg-card p-6">
               <span className="text-4xl font-semibold">{index + 1}</span>
             </div>
@@ -80,7 +80,7 @@ export const SurveyCards: Story = {
     <Carousel {...args} className="mx-12 w-full max-w-lg">
       <CarouselContent>
         {Array.from({ length: 7 }).map((_, index) => (
-          <CarouselItem key={index} className="basis-1/1">
+          <CarouselItem key={index} className="basis-1/1" index={0}>
             <SurveyCard
               title="Should banks use AI to analyse your spending?"
               bannerImage={{
