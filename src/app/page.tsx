@@ -77,7 +77,7 @@ function FindSurveySection() {
 
             {/* TODO: this can be a button variant */}
             <Button className="flex gap-4">
-              <span>Search surveys</span>
+              <span>Search surveys.</span>
               <ArrowRightIcon size={24} />
             </Button>
           </div>
